@@ -1,4 +1,6 @@
+WindowModule/Main.class
 WindowModule/Window.class
 LanguageModule/Language.class
+TextFormatterModule/TextFormatter.class
 StairsModules/Stairs.class
 StairsModules/StairsParameters.class

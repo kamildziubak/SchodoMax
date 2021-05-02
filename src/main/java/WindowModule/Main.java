@@ -1,3 +1,5 @@
+package WindowModule;
+
 import LanguageModule.Language;
 import WindowModule.Window;
 
